@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **.NET Core**, **ReactJS**, and **Cloud Deployment**
 - 👨‍🎓 Software Engineering Student at **NSBM Green University**
 - 🎯 Focused on building scalable full stack web applications
-- 📫 How to reach me: **binod.perera@email.com**
+- 📫 How to reach me: **mybperera.dev@gmail.com**
 - ⚡ Fun fact: I love editing GoT videos for TikTok and YouTube Shorts!
 
 ---
@@ -41,29 +41,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=binodperera&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binodperera&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binodperera&layout=compact&theme=tokyonight" width="48%" />
 </p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=binodperera&theme=onedark&row=1&column=6" />
-</p>
-
----
-
-### 📌 Pinned Projects
-
-<!-- Replace the repo links with your actual repo names -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binodperera&repo=ceylon-organics&theme=tokyonight)](https://github.com/binodperera/ceylon-organics)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binodperera&repo=hospital-roster&theme=tokyonight)](https://github.com/binodperera/hospital-roster)
 
 ---
 
