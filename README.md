@@ -7,11 +7,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Full+Stack+Developer;MERN+%7C+.NET+%7C+React+%7C+C%23;Passionate+about+clean+code+%26+UI%2FUX+Design;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
-<div align="center" style="width: 300px;">
+<div align="center" width="300px">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
     <source media="(prefers-color-scheme: light)" srcset="212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
-    <img alt="Binod's GIF" src="212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" style="border-radius: 12px;" />
+    <img alt="Binod's GIF" src="212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" />
   </picture>
 </div>
 
