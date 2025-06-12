@@ -38,8 +38,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binodperera&layout=compact&theme=tokyonight" width="48%" />
 </p>
@@ -49,9 +47,8 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/binodperera" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:binod.perera@email.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://youtube.com/@yourchannel" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mybperera" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mybperera.dev@email.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
