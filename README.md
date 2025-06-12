@@ -7,6 +7,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Full+Stack+Developer;MERN+%7C+.NET+%7C+React+%7C+C%23;Passionate+about+clean+code+%26+UI%2FUX+Design;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
+ <source media="(prefers-color-scheme: light)" srcset="212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
+ <img alt="YOUR-ALT-TEXT" src="212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
+</picture>
+
 ---
 
 ### 🧑‍💻 About Me
@@ -16,7 +22,6 @@
 - 👨‍🎓 Software Engineering Student at **NSBM Green University**
 - 🎯 Focused on building scalable full stack web applications
 - 📫 How to reach me: **mybperera.dev@gmail.com**
-- ⚡ Fun fact: I love editing GoT videos for TikTok and YouTube Shorts!
 
 ---
 
