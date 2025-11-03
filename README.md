@@ -14,8 +14,6 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **Ceylon Organics – MERN Stack E-Commerce Site**
-- 🌱 I’m currently learning **.NET Core**, **ReactJS**, and **Cloud Deployment**
 - 👨‍🎓 Software Engineering Student at **NSBM Green University**
 - 🎯 Focused on building scalable full stack web applications
 - 📫 How to reach me: **mybperera.dev@gmail.com**
